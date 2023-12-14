@@ -16,6 +16,8 @@ onUnmounted(() => {
   currentCharacter.value = null
 })
 </script>
+// eslint-disable-next-line prettier/prettier // eslint-disable-next-line
+prettier/prettier
 
 <template>
   <main
